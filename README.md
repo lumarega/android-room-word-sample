@@ -1,2 +1,1 @@
-# android-room-word-sample
-Android Room sample
+Android project sample using Room and LiveData based on the Android Developers codelab.
